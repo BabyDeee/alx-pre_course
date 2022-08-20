@@ -1,2 +1,2 @@
-My first readme
-Update from the web interface instaed of the webterminal
+My first readme.
+	Update from the web interface instaed of the webterminal
